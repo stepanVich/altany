@@ -1,2 +1,2 @@
 "# altany" 
-Spuštět na lokálním serveru!
+Spouštět na lokálním serveru!
