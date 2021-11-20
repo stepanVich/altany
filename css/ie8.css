@@ -1,0 +1,17 @@
+.triangle-left,
+.triangle-right {
+	display: none;
+}
+.header .menu a:hover,
+.header .menu a.active {
+	background-image: none;
+	background-color: #FFF;
+}
+.header .menu li.social a:hover {
+	background-color: transparent;	
+}
+.service-info,
+.header {
+	background-image: none !important;
+	background-color: #000;
+}
